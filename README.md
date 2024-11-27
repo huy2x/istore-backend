@@ -103,4 +103,4 @@ Swagger UI: `http://localhost:8080/swagger-ui.html`
 5. Tạo Pull Request
 
 ## License
-[MIT License](LICENSE)
+[Apache-2.0 License](LICENSE)
